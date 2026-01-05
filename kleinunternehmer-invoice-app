@@ -1,0 +1,59 @@
+# Kleinunternehmer Invoice App
+
+Diese Anwendung ist ein Rechnungs- und Verwaltungssystem für Kleinunternehmer gemäß §19 UStG (Kleinunternehmerregelung) in Deutschland.
+
+Sie richtet sich an Selbstständige und Freelancer, die einfache, gesetzeskonforme Rechnungen erstellen und ihre Einnahmen übersichtlich verwalten möchten.
+
+---
+
+## 🚀 Funktionen
+
+- 🧾 Erstellung von Rechnungen (PDF)
+- 🇩🇪 Automatischer Hinweis gemäß §19 UStG
+- 👤 Kundenverwaltung
+- 🔢 Automatische Rechnungsnummerierung
+- 📊 Übersicht über Einnahmen
+- 💾 Speicherung in Datenbank (lokal oder Server)
+
+---
+
+## 🛠 Technologie
+
+- PHP
+- MySQL / SQLite
+- HTML / CSS
+- PDF-Generator
+
+---
+
+## 📂 Projektstruktur
+
+
+
+kleinunternehmer-invoice-app/
+├── src/
+├── assets/
+│ └── screenshots/
+├── README.md
+
+
+---
+
+## ⚙️ Installation (Kurzfassung)
+
+1. Projektdateien auf einen Webserver hochladen  
+2. Datenbank einrichten  
+3. Konfigurationsdatei anpassen  
+4. Anwendung im Browser aufrufen  
+
+---
+
+## 📸 Screenshots
+
+Screenshots werden in Kürze hinzugefügt.
+
+---
+
+## 📄 Hinweis
+
+Dieses Projekt dient Demonstrations- und Portfoliozwecken.
